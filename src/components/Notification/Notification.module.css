@@ -1,11 +1,11 @@
 .notificationContainer {
-    background-color: #f8d7da;
-    /* червоний колір */
-    color: #721c24;
-    /* темно-червоний колір тексту */
+    background-color: #543C47;
+   
+    color: #E8B4BC;
+    
     padding: 20px;
-    border: 1px solid #f5c6cb;
-    /* світло-червоний колір рамки */
+    border: 1px solid #543C47;
+   
     border-radius: 5px;
     margin-bottom: 20px;
 }
